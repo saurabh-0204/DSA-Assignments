@@ -1,0 +1,17 @@
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_autoactivation_triggers_javadoc=@\#abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Iterator"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.io.Closeable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="java.lang.AutoCloseable"><rhs name\="java.util.Scanner"/></lhs><lhs name\="char_Stack.Stack_ch"><rhs name\="char_Stack.Stack_ch"/></lhs><lhs name\="stack_Int.StackInt"><rhs name\="stack_Int.StackInt"/></lhs><lhs name\="queue_Using_Array.IntQueue"><rhs name\="queue_Using_Array.IntQueue"/></lhs><lhs name\="customer_queue.Customer_Queue"><rhs name\="customer_queue.Customer_Queue"/></lhs><lhs name\="int_Linked_List.Linked_List"><rhs name\="int_Linked_List.Linked_List"/></lhs><lhs name\="string_Linked_List.S_Linked_List"><rhs name\="string_Linked_List.S_Linked_List"/></lhs><lhs name\="sorted_int.Node"><rhs name\="sorted_int.Node"/></lhs><lhs name\="sorted_int.Sorted_list"><rhs name\="sorted_int.Sorted_list"/></lhs><lhs name\="sorted_int.Linked_sort"><rhs name\="sorted_int.Linked_sort"/></lhs><lhs name\="doublyLinkedList.Node"><rhs name\="doublyLinkedList.Node"/></lhs><lhs name\="doublyLinkedList.DoublyLink"><rhs name\="doublyLinkedList.DoublyLink"/></lhs><lhs name\="dynamicLL.DynamicStack"><rhs name\="dynamicLL.DynamicStack"/></lhs><lhs name\="dynamicQueue.Queue"><rhs name\="dynamicQueue.Queue"/></lhs><lhs name\="doubleEndedQueue.Node"><rhs name\="doubleEndedQueue.Node"/></lhs><lhs name\="simple_BinaryTree.BinaryTree"><rhs name\="simple_BinaryTree.BinaryTree"/></lhs><lhs name\="simpleGraph.Graph"><rhs name\="simpleGraph.Graph"/></lhs></history>
+content_assist_number_of_computers=20
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.jdt.ui.typefilter.disabled=java.awt.*;java.rmi.*;org.graalvm.*
+org.eclipse.jdt.ui.typefilter.enabled=com.sun.*;io.micrometer.shaded.*;jdk.*;sun.*;java.awt.List
+org.eclipse.jdt.ui.visibility.order=B,V,R,D,
+outlinesortoption=T,SF,SI,SM,F,I,C,M,
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
